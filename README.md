@@ -1,1 +1,2 @@
-# Star-the-Assistant
+Star the Assistant is now out for windows xp,7,8,10,10 etc.
+it can do math and more coming.
